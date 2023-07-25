@@ -1,0 +1,19 @@
+//inputan untuk membuat user baru 
+
+    "email": "zakialjabar@gmail.com",
+    "password": "zaki99",
+    "nik": "3271023416401005",
+    "fullName": "Zaki Aljabbar",
+    "gender": "Laki - laki",
+    "noHp": "08740096415",
+    "foto": "Zak.jpg",
+    "fotoKtp": "ZakiKtp.jpg",
+    "address": "blablabla"
+
+//inputan untuk membuat admin
+
+    "email": ,
+    "password": ,
+    "fullName": ,
+    "noHp": ,
+    "address": 
